@@ -9,3 +9,5 @@ make a shared folder and a external drive put the dpupt save file in the shared 
 once it gets to the desktop you will mount the shared folder and copy the dpupt save file to the external drive. reboot. you should get the customized desktop. 
 # what is on it, 
 for the first version thar is some scrips and python files and one bash file is costom_gui.sh witch customizes the desktop but it runs on boot. thar is one app: Wireshark. it captures the current packages.  
+# new versions
+for new versions I will upload new dpupt save files but not the iso because it will not change.
